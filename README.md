@@ -37,7 +37,7 @@ for more details about me. I'm open to feedback and suggestions!
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sebastianlion"><img src="https://img.shields.io/badge/-Sebastian%20Ceballos%20B-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sebastian-ceballos-benavidez"><img src="https://img.shields.io/badge/-Sebastian%20Ceballos%20B-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:sebastianlion12@gmail.com"><img src="https://img.shields.io/badge/-sebastianlion12@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://wa.me/573218322098"><img src="https://img.shields.io/badge/-@Sebastian C-25D366?style=flat&logo=WhatsApp&logoColor=white"/></a>
 </p>
